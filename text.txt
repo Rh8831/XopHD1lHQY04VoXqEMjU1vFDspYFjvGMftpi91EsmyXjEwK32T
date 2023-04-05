@@ -1,9 +1,7 @@
 vless://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?encryption=none&security=tls&sni=gray-scholars-maintains-veteran.trycloudflare.com&type=ws&host=gray-scholars-maintains-veteran.trycloudflare.com&path=%2Fargo-vless?ed=2048#Argo-Vless
 vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tVm1lc3MiLCAiYWRkIjogImljb29rLmhrIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRlMDRhZGQ5LTVjNjgtOGJhYi05NTBjLTA4Y2Q1MzIwZGYxOCIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZ3JheS1zY2hvbGFycy1tYWludGFpbnMtdmV0ZXJhbi50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIi9hcmdvLXZtZXNzP2VkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAiZ3JheS1zY2hvbGFycy1tYWludGFpbnMtdmV0ZXJhbi50cnljbG91ZGZsYXJlLmNvbSIsICJhbHBuIjogIiIgfQo=
 trojan://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?security=tls&sni=gray-scholars-maintains-veteran.trycloudflare.com&type=ws&host=gray-scholars-maintains-veteran.trycloudflare.com&path=%2Fargo-trojan?ed=2048#Argo-Trojan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMThAaWNvb2suaGs6NDQzCg==@icook.hk:443#Argo-Shadowsocks
-由于该软件导出的链接不全，请自行处理如下: 传输协议: WS ， 伪装域名: gray-scholars-maintains-veteran.trycloudflare.com ，路径: /argo-shadowsocks?ed=2048 ， 传输层安全: tls ， sni: gray-scholars-maintains-veteran.trycloudflare.com
 vless://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?encryption=none&security=tls&type=ws&host=gray-scholars-maintains-veteran.trycloudflare.com&path=/argo-vless?ed=2048&sni=gray-scholars-maintains-veteran.trycloudflare.com#Argo-Vless
 vmess://bm9uZTpkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMThAaWNvb2suaGs6NDQzCg==?remarks=Argo-Vmess&obfsParam=gray-scholars-maintains-veteran.trycloudflare.com&path=/argo-vmess?ed=2048&obfs=websocket&tls=1&peer=gray-scholars-maintains-veteran.trycloudflare.com&alterId=0
-trojan://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?peer=gray-scholars-maintains-veteran.trycloudflare.com&plugin=obfs-local;obfs=websocket;obfs-host=gray-scholars-maintains-veteran.trycloudflare.com;obfs-uri=/argo-trojan?ed=2048#Argo-Trojan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMThAaWNvb2suaGs6NDQzCg==?obfs=wss&obfsParam=gray-scholars-maintains-veteran.trycloudflare.com&path=/argo-shadowsocks?ed=2048#Argo-ShadowsocksyMGRmMThAaWNvb2suaGs6NDQzCg==@icook.hk:443#A
+
+
