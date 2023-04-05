@@ -2,6 +2,6 @@ vless://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?encryption=none&securi
 vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tVm1lc3MiLCAiYWRkIjogImljb29rLmhrIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRlMDRhZGQ5LTVjNjgtOGJhYi05NTBjLTA4Y2Q1MzIwZGYxOCIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZ3JheS1zY2hvbGFycy1tYWludGFpbnMtdmV0ZXJhbi50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIi9hcmdvLXZtZXNzP2VkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAiZ3JheS1zY2hvbGFycy1tYWludGFpbnMtdmV0ZXJhbi50cnljbG91ZGZsYXJlLmNvbSIsICJhbHBuIjogIiIgfQo=
 trojan://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?security=tls&sni=gray-scholars-maintains-veteran.trycloudflare.com&type=ws&host=gray-scholars-maintains-veteran.trycloudflare.com&path=%2Fargo-trojan?ed=2048#Argo-Trojan
 vless://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?encryption=none&security=tls&type=ws&host=gray-scholars-maintains-veteran.trycloudflare.com&path=/argo-vless?ed=2048&sni=gray-scholars-maintains-veteran.trycloudflare.com#Argo-Vless
-vmess://bm9uZTpkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMThAaWNvb2suaGs6NDQzCg==?remarks=Argo-Vmess&obfsParam=gray-scholars-maintains-veteran.trycloudflare.com&path=/argo-vmess?ed=2048&obfs=websocket&tls=1&peer=gray-scholars-maintains-veteran.trycloudflare.com&alterId=0
+
 
 
